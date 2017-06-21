@@ -1,4 +1,4 @@
-﻿---
+---
 
 
 
@@ -44,14 +44,6 @@ par écrit à l'adresse suivante :
   *North Castle Drive, MD-NC119*
   *Armonk, NY 10504-1785*
   *U.S.A.*
-
-Pour le Canada, veuillez adresser votre courrier à :
-
-  *IBM Director of Commercial Relations*
-  *IBM Canada Ltd.*
-  *3600 Steeles Avenue East*
-  *Markham, Ontario*
-  *L3R 9Z7 Canada*
 
 Les informations sur les licences concernant les produits utilisant un jeu de caractères double octet
 peuvent être obtenues en contactant le Service Propriété Intellectuelle d'IBM dans
@@ -170,7 +162,7 @@ Java™, ainsi que tous les logos et toutes les marques incluant Java, sont des 
 
 Les autres noms de sociétés, de produits et de services peuvent appartenir à des tiers.
 
-## Dispositions des services cloud 
+## Dispositions des services cloud
 {: #terms}
 
 Votre utilisation de {{site.data.keyword.Bluemix_notm}} est régie par les dispositions du

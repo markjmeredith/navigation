@@ -123,7 +123,7 @@ A seconda delle configurazioni distribuite, questa Offerta software può utilizz
 
 Se le configurazioni distribuite per questa Offerta software forniscono al cliente la possibilità di raccogliere informazioni personali dagli utenti finali tramite i cookie e altre tecnologie, è necessario richiedere la consulenza legale relativa alle leggi applicabili in materia di raccolta di tali dati incluso i requisiti di preavviso e consenso.
 
-Per ulteriori informazioni sull'utilizzo di varie tecnologie, ad esempio, i cookie per tali scopi, consulta i seguenti siti:
+Per ulteriori informazioni sull'utilizzo di varie tecnologie, ad esempio, i cookie per tali scopi, vedi i seguenti siti:
  * [IBM Online Privacy Policy Statement Highlights ![Icona link esterno](../icons/launch-glyph.svg)](http://www.ibm.com/privacy){: new_window}
  * [IBM Online Privacy Statement, la sezione intitolata “Cookies, Web Beacons and Other Technologies” ![Icona link esterno](../icons/launch-glyph.svg)](http://www.ibm.com/privacy/details){: new_window}
  * [IBM Software Products and Software-as-a-Service Privacy Statement ![Icona link esterno](../icons/launch-glyph.svg)](http://www.ibm.com/software/info/product-privacy){: new_window}

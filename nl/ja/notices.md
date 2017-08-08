@@ -57,11 +57,11 @@ IBM は、お客様が提供するいかなる情報も、お客様に対して�
 
 本プログラムのライセンス保持者で、(i) 独自に作成したプログラムとその他のプログラム (本プログラムを含む) との間での情報交換、および (ii) 交換された情報の相互利用を可能にすることを目的として、本プログラムに関する情報を必要とする方は、下記に連絡してください。
  
-  *IBM Director of Licensing*
-  *IBM Corporation*
-  *North Castle Drive, MD-NC119*
-  *Armonk, NY 10504-1785*
-  *US*
+  *〒103-8510*
+  *東京都中央区日本橋箱崎町19番21号*
+  *日本アイ・ビー・エム株式会社*
+  *法務・知的財産*
+  *知的財産権ライセンス渉外*
 
 本プログラムに関する上記の情報は、適切な使用条件の下で使用することができますが、有償の場合もあります。
 
@@ -109,7 +109,7 @@ IBM、IBM ロゴおよび ibm.com は、世界の多くの国で登録された 
 
 Adobe、Adobe ロゴ、PostScript、PostScript ロゴは、Adobe Systems Incorporated の米国およびその他の国における登録商標または商標です。
 
-<!--The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the [Creative Commons 3.0 Attribution License ![外部リンク・アイコン](../icons/launch-glyph.svg)](https://creativecommons.org/licenses/by/3.0/){: new_window}.--> 
+<!--The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the [Creative Commons 3.0 Attribution License ![External link icon](../icons/launch-glyph.svg)](https://creativecommons.org/licenses/by/3.0/){: new_window}.-->
 
 Linux は、Linus Torvalds の米国およびその他の国における登録商標です。
 
@@ -133,8 +133,8 @@ Java™ およびすべての Java 関連の商標およびロゴは Oracle や�
 ### IBM サービス記述書
 {{site.data.keyword.Bluemix_notm}} の使用に適用されるサービス記述書およびご使用条件の文書は、以下のとおりです。
  * [Software as a Service terms (CSA を締結したユーザーの場合) ![外部リンク・アイコン](../icons/launch-glyph.svg)](http://ibm.biz/BluemixSD){: new_window}
- * [Software as a Service terms (IPAA を締結したユーザーの場合) ![外部リンク・アイコン
-](../icons/launch-glyph.svg)](http://ibm.biz/BluemixTOU){: new_window}
+ * [Software as a Service terms (IPAA を締結したユーザーの場合) ![外部リンク・アイコン](../icons/launch-glyph.svg)](http://ibm.biz/BluemixTOU){: new_window}
+
 
 ### IBM WebSphere Application Server Liberty Profile イメージのライセンス
 Dockerfile と関連スクリプトは、Apache License 2.0 に基づいて使用許諾されます。IBM JRE および IBM WebSphere® Application Server for Developers は、「IBM プログラムのご使用条件 (保証適用外プログラム用)」に基づいて使用許諾されます。これらのライセンスは、前述のとおり LICENSE=view 環境変数を使用してイメージから表示するか、IBM JRE と IBM WebSphere Application Server for Developers でオンライン検索して入手できます。このライセンスを再配布することは禁止されています。

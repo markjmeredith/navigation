@@ -93,7 +93,7 @@ Linux ist eine eingetragene Marke von Linus Torvalds in den USA und/oder anderen
 
 Microsoft, Windows und Windows NT sind Marken der Microsoft Corporation in den USA und/oder anderen Ländern.
 
-Node.js ist eine Marke von Joyent Inc. und wird mit Genehmigung dieses Unternehmens verwendet. Diese Dokumentation wird von Joyent nicht formal bebilligt und ist auch nicht formal mit Joyent verbunden.
+Node.js ist eine Marke von Joyent Inc. und wird mit Genehmigung dieses Unternehmens verwendet. Diese Dokumentation wird von Joyent nicht formal gebilligt und ist auch nicht formal mit Joyent verbunden.
 
 UNIX ist eine eingetragene Marke von The Open Group in den USA und anderen Ländern.
 

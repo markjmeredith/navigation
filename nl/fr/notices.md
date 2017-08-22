@@ -1,4 +1,4 @@
----
+﻿---
 
 
 
@@ -44,6 +44,14 @@ par écrit à l'adresse suivante :
   *North Castle Drive, MD-NC119*
   *Armonk, NY 10504-1785*
   *U.S.A.*
+
+Pour le Canada, veuillez adresser votre courrier à : 
+
+  *IBM Director of Commercial Relations*
+  *IBM Canada Ltd.*
+  *3600 Steeles Avenue East*
+  *Markham, Ontario*
+  *L3R 9Z7 Canada*
 
 Les informations sur les licences concernant les produits utilisant un jeu de caractères double octet
 peuvent être obtenues en contactant le Service Propriété Intellectuelle d'IBM dans

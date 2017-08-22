@@ -108,13 +108,9 @@ IBM의 향후 제시 방향 또는 의도에 관한 언급은 특별한 통지 �
 ## 상표
 {: #trademarks}
 
-IBM, IBM 로고 및 ibm.com은 전세계 여러 국가에 등록된 International Business Machines Corp.의
-상표 또는 등록상표입니다. 기타
-제품 및 서비스 이름은 IBM 또는 타사의 상표입니다. 현재 IBM 상표 목록은 웹 "저작권 및 상표 정보"([www.ibm.com/legal/copytrade.shtml ![외부 링크 아이콘](../icons/launch-glyph.svg)](www.ibm.com/legal/copytrade.shtml){: new_window})에 있습니다.
+IBM, IBM 로고 및 ibm.com은 전세계 여러 국가에 등록된 International Business Machines Corp.의 상표 또는 등록상표입니다. 기타 제품 및 서비스 이름은 IBM 또는 타사의 상표입니다. 현재 IBM 상표 목록은 웹 "저작권 및 상표 정보"([www.ibm.com/legal/copytrade.shtml ![외부 링크 아이콘](../icons/launch-glyph.svg)](www.ibm.com/legal/copytrade.shtml){: new_window})에 있습니다.
 
-Adobe, Adobe 로고, PostScript 및 PostScript
-로고는 미국 및/또는 기타 국가에서 사용되는 Adobe Systems
-Incorporated의 등록상표 또는 상표입니다.
+Adobe, Adobe 로고, PostScript 및 PostScript 로고는 미국 및/또는 기타 국가에서 사용되는 Adobe Systems Incorporated의 등록상표 또는 상표입니다.
 
 Android 로봇은 Google에 의해 작성되어 공유된 저작물에서 복제되거나 수정된 것이며 [Creative Commons 3.0 Attribution License ![외부 링크 아이콘](../icons/launch-glyph.svg)](https://creativecommons.org/licenses/by/3.0/){: new_window}의 조항에 따라 사용됩니다.
 

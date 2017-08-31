@@ -54,8 +54,7 @@ Pour le Canada, veuillez adresser votre courrier à :
   *L3R 9Z7 Canada*
 
 Les informations sur les licences concernant les produits utilisant un jeu de caractères double octet
-peuvent être obtenues en contactant le Service Propriété Intellectuelle d'IBM dans
-votre pays ou en écrivant à l'adresse suivante :
+peuvent être obtenues en écrivant à l'adresse suivante :
   
   *Intellectual Property Licensing*
   *Legal and Intellectual Property Law*
@@ -153,14 +152,13 @@ d'IBM Corp.
 
 IBM, le logo IBM et ibm.com sont des marques d'International Business Machines Corp. dans de nombreux pays. Les autres noms de produits et de services peuvent être des marques d'IBM ou appartenir à des tiers. La liste actualisée de toutes les marques d'IBM est disponible sur la page Web "Copyright and trademark information" à l'adresse [www.ibm.com/legal/copytrade.shtml ![Icône de lien externe](../icons/launch-glyph.svg)](www.ibm.com/legal/copytrade.shtml){: new_window}.
 
-Adobe, le logo Adobe, PostScript et le logo PostScript sont soit des marques, soit des marques enregistrées d'Adobe Systems Incorporated aux Etats-Unis et/ou dans d'autres pays.
+Adobe, le logo Adobe, PostScript et le logo PostScript sont des marques d'Adobe Systems Incorporated aux Etats-Unis et/ou dans d'autres pays.
 
 Le robot Android est reproduit ou modifié à partir de travaux créés et partagés par Google et utilisé conformément aux dispositions décrites dans le document [Creative Commons 3.0 Attribution License ![Icône de lien externe](../icons/launch-glyph.svg)](https://creativecommons.org/licenses/by/3.0/){: new_window}.
 
 Linux est une marque de Linus Torvalds aux Etats-Unis et/ou dans certains autres pays.
 
-Microsoft, Windows et Windows NT sont des marques de Microsoft Corporation aux Etats-Unis et/ou dans certains autres
-pays.
+Microsoft, Windows et Windows NT sont des marques de Microsoft Corporation aux Etats-Unis et/ou dans certains autres pays.
 
 Node.js est une marque de Joyent, Inc., utilisée avec la permission de cette société. La présente documentation n'est pas validée ni parrainée par Joyent.
 

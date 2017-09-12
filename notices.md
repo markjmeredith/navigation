@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-03"
+lastupdated: "2017-09-12"
 
 
 ---
@@ -83,7 +83,7 @@ Each copy or any portion of these sample programs or any derivative work must in
 ## Trademarks
 {: #trademarks}
 
-IBM, the IBM logo, and ibm.com are trademarks or registered trademarks of International Business Machines Corp., registered in many jurisdictions worldwide. Other product and service names might be trademarks of IBM or other companies. A current list of IBM trademarks is available on the web at "Copyright and trademark information" at [www.ibm.com/legal/copytrade.shtml ![External link icon](../icons/launch-glyph.svg)](www.ibm.com/legal/copytrade.shtml){: new_window}.
+IBM, the IBM logo, and ibm.com are trademarks or registered trademarks of International Business Machines Corp., registered in many jurisdictions worldwide. Other product and service names might be trademarks of IBM or other companies. A current list of IBM trademarks is available on the web at [Copyright and trademark information ![External link icon](../icons/launch-glyph.svg)](https://www.ibm.com/legal/us/en/copytrade.shtml){: new_window}.
 
 Adobe, the Adobe logo, PostScript, and the PostScript logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States, and/or other countries.
 

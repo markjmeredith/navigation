@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-09-12"
+lastupdated: "2017-09-21"
 
 
 ---
@@ -101,15 +101,10 @@ Java™ and all Java-based trademarks and logos are trademarks or registered tra
 
 Other company, product, and service names may be trademarks or service marks of others.
 
-## Cloud Services terms
+## IBM Bluemix service descriptions 
 {: #terms}
 
-Your use of {{site.data.keyword.Bluemix_notm}} is governed by the terms of the IBM Cloud Services Agreement (CSA), unless you have elected to order {{site.data.keyword.Bluemix_notm}} under your existing International Passport Advantage Agreement (IPAA). The agreement incorporates by reference all of the associated Service Descriptions and Terms of Use documents. Your placement of an order and continued use of {{site.data.keyword.Bluemix_notm}} constitutes your acceptance of the process, terms, and conditions stated or referenced in this document.
-
-### IBM service descriptions
-The Service Description and Terms of Use documents governing your use of {{site.data.keyword.Bluemix_notm}} follow.
- * [Software as a Service terms for users under the CSA ![External link icon](../icons/launch-glyph.svg)](http://ibm.biz/BluemixSD){: new_window}
- * [Software as a Service terms for users under the IPAA ![External link icon](../icons/launch-glyph.svg)](http://ibm.biz/BluemixTOU){: new_window}
+The latest versions of IBM {{site.data.keyword.Bluemix_notm}} Service Descriptions, including any additional terms for specific {{site.data.keyword.Bluemix_notm}} services, can be found at [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![External link icon](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window}.
 
 ### License for the IBM WebSphere Application Server Liberty Profile image
 The Dockerfile and associated scripts are licensed under the Apache License 2.0. The IBM JRE and IBM WebSphere® Application Server for Developers are licensed under the IBM International License Agreement for Non-Warranted Programs. You can view these licenses from the image by using the LICENSE=view environment variable as described previously, or you can find them online for IBM JRE and IBM WebSphere Application Server for Developers. This license does not permit further distribution.
@@ -117,13 +112,4 @@ The Dockerfile and associated scripts are licensed under the Apache License 2.0.
 ## Bluemix privacy policy
 {: #privacy_policy}
 
-IBM Software products, including software as a service solutions, (“Software Offerings”) may use cookies or other technologies to collect product usage information, to help improve the end user experience, to tailor interactions with the end user or for other purposes. In many cases no personally identifiable information is collected by the Software Offerings. Some of our Software Offerings can help enable you to collect personally identifiable information. If this Software Offering uses cookies to collect personally identifiable information, specific information about this offering’s use of cookies is set forth below.
-
-Depending upon the configurations deployed, this Software Offering may use session cookies that collect each user’s user name or other personally identifiable information for purposes of session management, authentication, or other usage tracking or functional purposes. These cookies cannot be disabled.
-
-If the configurations deployed for this Software Offering provide you as customer the ability to collect personally identifiable information from end users via cookies and other technologies, you should seek your own legal advice about any laws applicable to such data collection, including any requirements for notice and consent.
-
-For more information about the use of various technologies such as cookies for these purposes, see the following sites:
- * [IBM Online Privacy Policy Statement Highlights ![External link icon](../icons/launch-glyph.svg)](http://www.ibm.com/privacy){: new_window}
- * [IBM Online Privacy Statement, the section entitled “Cookies, Web Beacons and Other Technologies” ![External link icon](../icons/launch-glyph.svg)](http://www.ibm.com/privacy/details){: new_window}
- * [IBM Software Products and Software-as-a-Service Privacy Statement ![External link icon](../icons/launch-glyph.svg)](http://www.ibm.com/software/info/product-privacy){: new_window}
+IBM Online Privacy Statement can be found at [https://www.ibm.com/privacy/details/us/en ![External link icon](../icons/launch-glyph.svg)](https://www.ibm.com/privacy/details/us/en){: new_window}. This Statement provides information about what personal information IBM collects, how it uses, and what choices Client has with regard to such personal information.

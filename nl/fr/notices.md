@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-03"
+lastupdated: "2017-09-21"
 
 
 ---
@@ -150,11 +150,11 @@ d'IBM Corp.
 ## Marques
 {: #trademarks}
 
-IBM, le logo IBM et ibm.com sont des marques d'International Business Machines Corp. dans de nombreux pays. Les autres noms de produits et de services peuvent être des marques d'IBM ou appartenir à des tiers. La liste actualisée de toutes les marques d'IBM est disponible sur la page Web "Copyright and trademark information" à l'adresse [www.ibm.com/legal/copytrade.shtml ![Icône de lien externe](../icons/launch-glyph.svg)](www.ibm.com/legal/copytrade.shtml){: new_window}.
+IBM, le logo IBM et ibm.com sont des marques d'International Business Machines Corp. dans de nombreux pays. Les autres noms de produits et de services peuvent être des marques d'IBM ou appartenir à des tiers. La liste actualisée de toutes les marques d'IBM est disponible sur la page Web [Copyright and trademark information ![External link icon](../icons/launch-glyph.svg)](https://www.ibm.com/legal/us/en/copytrade.shtml){: new_window}.
 
 Adobe, le logo Adobe, PostScript et le logo PostScript sont des marques d'Adobe Systems Incorporated aux Etats-Unis et/ou dans d'autres pays.
 
-Le robot Android est reproduit ou modifié à partir de travaux créés et partagés par Google et utilisé conformément aux dispositions décrites dans le document [Creative Commons 3.0 Attribution License ![Icône de lien externe](../icons/launch-glyph.svg)](https://creativecommons.org/licenses/by/3.0/){: new_window}.
+Le robot Android est reproduit ou modifié à partir de travaux créés et partagés par Google et utilisé conformément aux dispositions décrites dans le document [Creative Commons 3.0 Attribution License ![External link icon](../icons/launch-glyph.svg)](https://creativecommons.org/licenses/by/3.0/){: new_window}.
 
 Linux est une marque de Linus Torvalds aux Etats-Unis et/ou dans certains autres pays.
 
@@ -168,17 +168,10 @@ Java™, ainsi que tous les logos et toutes les marques incluant Java, sont des 
 
 Les autres noms de sociétés, de produits et de services peuvent appartenir à des tiers.
 
-## Dispositions des services cloud
+## Bluemix service descriptions 
 {: #terms}
 
-Votre utilisation de {{site.data.keyword.Bluemix_notm}} est régie par les dispositions du
-Contrat relatif aux services cloud IBM (CSA), à moins que vous n'ayez opté pour commander {{site.data.keyword.Bluemix_notm}} selon les dispositions de votre Contrat International Passport Advantage existant (IPAA). Le contrat incorpore par référence tous les documents relatifs aux Descriptifs de service et Conditions d'utilisation associés. Votre passation de commande et votre utilisation continue de
-{{site.data.keyword.Bluemix_notm}} constitue votre acceptation du processus et des conditions d'utilisation mentionnées ou référencées dans ce document.
-
-### Descriptifs de service IBM
-Les documents Descriptif de service et Conditions d'utilisation régissant votre utilisation de {{site.data.keyword.Bluemix_notm}} sont présentés ci-après.
- * [Dispositions Software as a Service pour une utilisation régie par le CSA ![Icône de lien externe](../icons/launch-glyph.svg)](http://ibm.biz/BluemixSD){: new_window}
- * [Dispositions Software as a Service pour une utilisation régie par l'IPAA ![Icône de lien externe](../icons/launch-glyph.svg)](http://ibm.biz/BluemixTOU){: new_window}
+Les dernières versions de {{site.data.keyword.Bluemix_notm}} service descriptions, incluant tous les termes supplémentaires des services {{site.data.keyword.Bluemix_notm}} spécifiques, se trouvent sur [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![External link icon](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window}.
 
 ### Licence pour l'image IBM WebSphere Application Server Liberty Profile
 Dockerfile et les scripts associés sont concédés sous licence selon les conditions Apache License 2.0. IBM JRE ( environnement d'exécution Java ) et IBM WebSphere Application Server for Developers sont concédés sous licence selon les Conditions Internationales d'Utilisation des Logiciels non-garantis IBM. Vous pouvez consulter ces licences depuis l'image en utilisant la variable d'environnement LICENSE=view comme décrit précédemment, ou les rechercher en ligne pour IBM JRE et IBM WebSphere Application Server for Developers. Cette licence n'autorise aucune distribution.
@@ -186,13 +179,4 @@ Dockerfile et les scripts associés sont concédés sous licence selon les condi
 ## Règles de confidentialité de Bluemix
 {: #privacy_policy}
 
-Les Logiciels IBM, y compris les Logiciels sous forme de services ("Offres Logiciels"), peuvent utiliser des cookies ou d'autres technologies pour collecter des informations sur l'utilisation des produits, améliorer l'acquis utilisateur, personnaliser les interactions avec celui-ci, ou dans d'autres buts. Bien souvent, aucune information personnelle identifiable n'est collectée par les Offres Logiciels. Certaines Offres Logiciels vous permettent cependant de le faire. Si la présente Offre Logiciels utilise des cookies pour collecter des informations personnelles identifiables, des informations spécifiques sur cette utilisation sont fournies ci-dessous.
-
-Selon la configuration déployée, la présente Offre Logiciels peut utiliser des cookies de session destinés à collecter le nom des utilisateurs ou d'autres informations personnelles identifiables à des fins de gestion de session, d'authentification, de suivi de l'utilisation ou pour d'autres buts fonctionnels. Ces cookies ne peuvent pas être désactivés.
-
-Si les configurations déployées de cette Offre Logiciels vous permettent, en tant que client, de collecter des informations permettant d'identifier les utilisateurs par l'intermédiaire de cookies ou par d'autres techniques, vous devez solliciter un avis juridique sur la réglementation applicable à ce type de collecte, notamment en termes d'information et de consentement.
-
-Pour plus d'informations sur l'utilisation à ces fins des différentes technologies, y compris celle des cookies, consultez les sites suivants :
- * [Points principaux de la Déclaration IBM de confidentialité sur Internet ![Icône de lien externe](../icons/launch-glyph.svg)](http://www.ibm.com/privacy/fr/fr){: new_window}
- * [Déclaration IBM de confidentialité sur Internet, et plus particulièrement la section “Cookies, logiciels espions et autres technologies” ![Icône de lien externe](../icons/launch-glyph.svg)](http://www.ibm.com/privacy/details/fr/fr){: new_window}
- * [IBM Software Products and Software-as-a-Service Privacy Statement ![Icône de lien externe](../icons/launch-glyph.svg)](http://www.ibm.com/software/info/product-privacy){: new_window}
+Le document Déclaration IBM de confidentialité sur Internet se trouve sur [https://www.ibm.com/privacy/details/fr/fr![External link icon](../icons/launch-glyph.svg)](https://www.ibm.com/privacy/details/fr/fr){: new_window}. Il indique le type d'informations personnelles qui sont collectées par IBM, comment elles sont utilisées et les choix dont dispose le client par rapport à ces informations personnelles.

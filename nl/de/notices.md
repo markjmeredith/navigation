@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-03"
+lastupdated: "2017-09-21"
 
 
 ---
@@ -83,7 +83,7 @@ Kopien oder Teile der Beispielprogramme bzw. daraus abgeleiteter Code müssen fo
 ## Marken
 {: #trademarks}
 
-IBM, das IBM Logo und ibm.com sind Marken oder eingetragene Marken der IBM Corporation in den USA und/oder anderen Ländern. Weitere Produkt- und Servicenamen können Marken von IBM oder anderen Unternehmen sein. Eine aktuelle Liste der IBM Marken finden Sie auf der Webseite "Copyright and trademark information" at [www.ibm.com/legal/copytrade.shtml ![Symbol für externen Link](../icons/launch-glyph.svg)](www.ibm.com/legal/copytrade.shtml){: new_window}.
+IBM, das IBM Logo und ibm.com sind Marken oder eingetragene Marken der IBM Corporation in den USA und/oder anderen Ländern. Weitere Produkt- und Servicenamen können Marken von IBM oder anderen Unternehmen sein. Eine aktuelle Liste der IBM Marken finden Sie auf der Webseite [Copyright and trademark information ![Symbol für externen Link](../icons/launch-glyph.svg)](https://www.ibm.com/legal/us/en/copytrade.shtml){: new_window}.
 
 Adobe, das Adobe-Logo, PostScript und das PostScript-Logo sind Marken oder eingetragene Marken der Adobe Systems Incorporated in den USA und/oder anderen Ländern.
 
@@ -101,15 +101,10 @@ Java™ und alle auf Java basierenden Marken und Logos sind Marken oder eingetra
 
 Weitere Unternehmens-, Produkt- oder Servicenamen können Marken oder Servicemarken anderer Hersteller sein.
 
-## Bedingungen für Cloud-Services
+## IBM Bluemix-Servicebeschreibungen 
 {: #terms}
 
-Ihre Verwendung von {{site.data.keyword.Bluemix_notm}} unterliegt den Bedingungen des IBM Cloud Services Agreement (CSA), sofern Sie {{site.data.keyword.Bluemix_notm}} nicht unter Ihrem bestehenden International Passport Advantage Agreement (IPAA) bestellt haben. Die Vereinbarung übernimmt durch Bezugnahme alle zugeordneten Dokumente der Servicebeschreibungen und Nutzungsbedingungen. Durch Ihre Bestellung und fortgesetzte Verwendung von {{site.data.keyword.Bluemix_notm}} akzeptieren Sie den Prozess und die Nutzungsbedingungen, die dieses Dokument enthält oder auf die es verweist.
-
-### IBM Servicebeschreibungen
-Die Dokumente der Leistungsbeschreibung und der Nutzungsbedingungen, denen Ihre Verwendung von {{site.data.keyword.Bluemix_notm}} unterliegt, werden nachfolgend aufgeführt.
- * [Software as a Service-Bedingungen unter dem CSA ![Symbol für externen Link](../icons/launch-glyph.svg)](http://ibm.biz/BluemixSD){: new_window}
- * [Software as a Service-Bedingungen für Benutzer unter dem IPAA ![Symbol für externen Link](../icons/launch-glyph.svg)](http://ibm.biz/BluemixTOU){: new_window}
+Die neuesten Versionen der IBM {{site.data.keyword.Bluemix_notm}}-Servicebeschreibungen, einschließlich zusätzlicher Bedingungen für bestimmte {{site.data.keyword.Bluemix_notm}}-Services, finden Sie unter [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![Symbol für externen Link](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window}.
 
 ### Lizenz für das IBM WebSphere Application Server Liberty Profile-Image
 Die Dockerfile und zugehörige Scripts werden unter der Lizenz für Apache 2.0 lizenziert. Die Lizenzierung von IBM JRE und IBM WebSphere® Application Server for Developers erfolgt unter dem IBM International License Agreement für Programme ohne Gewährleistung. Sie können diese Lizenzen aus dem Image anzeigen, indem Sie die Umgebungsvariable LICENSE=view wie zuvor beschrieben verwenden, oder Sie finden sie online für IBM JRE und IBM WebSphere Application Server for Developers. Diese Lizenz berechtigt nicht zur weiteren Verteilung.
@@ -117,13 +112,4 @@ Die Dockerfile und zugehörige Scripts werden unter der Lizenz für Apache 2.0 l
 ## Bluemix-Datenschutzrichtlinie
 {: #privacy_policy}
 
-IBM Softwareprodukte, einschließlich Software as a Service-Lösungen (“Softwareangebote”), können Cookies oder andere Technologien verwenden, um Informationen zur Produktnutzung zu erfassen, die Endbenutzererfahrung zu verbessern und Interaktionen mit dem Endbenutzer anzupassen oder zu anderen Zwecken. In vielen Fällen werden von den Softwareangeboten keine personenbezogenen Daten erfasst. Einige der IBM Softwareangebote können Sie jedoch bei der Erfassung personenbezogener Daten unterstützen. Wenn dieses Softwareangebot Cookies zur Erfassung personenbezogener Daten verwendet, sind nachfolgend nähere Informationen über die Verwendung von Cookies durch dieses Angebot zu finden.
-
-Abhängig von den bereitgestellten Konfigurationen kann dieses Softwareangebot Sitzungscookies zum Erfassen der Namen oder anderer personenbezogener Daten einzelner Benutzer für die Sitzungsverwaltung, die Authentifizierung oder andere Nutzungsüberwachungs- oder funktionale Zwecke verwenden. Diese Cookies können nicht inaktiviert werden.
-
-Wenn es die für dieses Softwareangebot bereitgestellten Konfigurationen Ihnen als Kunde ermöglichen, personenbezogene Daten von Endbenutzern über Cookies und andere Technologien zu erfassen, müssen Sie sich zu allen gesetzlichen Bestimmungen in Bezug auf eine solche Datenerfassung, einschließlich aller Mitteilungspflichten und Zustimmungsanforderungen, rechtlich beraten lassen.
-
-Weitere Informationen zu den verschiedenen Technologien für diese Zwecke, wie zum Beispiel Cookies, finden Sie auf den folgenden Sites:
- * [IBM Online Privacy Policy Statement Highlights ![Symbol für externen Link](../icons/launch-glyph.svg)](http://www.ibm.com/privacy){: new_window}
- * [IBM Online Privacy Statement, Abschnitt mit dem Titel “Cookies, Web Beacons and Other Technologies” ![Symbol für externen Link](../icons/launch-glyph.svg)](http://www.ibm.com/privacy/details){: new_window}
- * [IBM Software Products and Software-as-a-Service Privacy Statement ![Symbol für externen Link](../icons/launch-glyph.svg)](http://www.ibm.com/software/info/product-privacy){: new_window}
+Die IBM Online-Datenschutzerklärung finden Sie unter [https://www.ibm.com/privacy/details/de/de ![Symbol für externen Link](../icons/launch-glyph.svg)](https://www.ibm.com/privacy/details/us/en){: new_window}. Diese Erklärung enthält Informationen zu den von IBM erfassten persönlichen Daten, zur Verwendung dieser Daten und zu den Optionen des Kunden hinsichtlich dieser persönlichen Daten.

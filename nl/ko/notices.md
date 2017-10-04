@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-03"
+lastupdated: "2017-09-21"
 
 
 ---
@@ -108,7 +108,7 @@ IBM의 향후 제시 방향 또는 의도에 관한 언급은 특별한 통지 �
 ## 상표
 {: #trademarks}
 
-IBM, IBM 로고 및 ibm.com은 전세계 여러 국가에 등록된 International Business Machines Corp.의 상표 또는 등록상표입니다. 기타 제품 및 서비스 이름은 IBM 또는 타사의 상표입니다. 현재 IBM 상표 목록은 웹 "저작권 및 상표 정보"([www.ibm.com/legal/copytrade.shtml ![외부 링크 아이콘](../icons/launch-glyph.svg)](www.ibm.com/legal/copytrade.shtml){: new_window})에 있습니다.
+IBM, IBM 로고 및 ibm.com은 전세계 여러 국가에 등록된 International Business Machines Corp.의 상표 또는 등록상표입니다. 기타 제품 및 서비스 이름은 IBM 또는 타사의 상표입니다. 현재 IBM 상표 목록은 웹 [저작권 및 상표 정보 ![외부 링크 아이콘](../icons/launch-glyph.svg)](https://www.ibm.com/legal/us/en/copytrade.shtml){: new_window}에 있습니다.
 
 Adobe, Adobe 로고, PostScript 및 PostScript 로고는 미국 및/또는 기타 국가에서 사용되는 Adobe Systems Incorporated의 등록상표 또는 상표입니다.
 
@@ -126,18 +126,10 @@ Java™ 및 모든 Java 기반 상표와 로고는 Oracle 및/또는 그 계열�
 
 기타 회사, 제품 및 서비스 이름은 타사의 상표 또는 서비스표입니다. 
 
-## 클라우드 서비스 이용 약관
+## IBM Bluemix 서비스 설명 
 {: #terms}
 
-기존의 국제 Passport Advantage(IPAA) 계약 하에서 {{site.data.keyword.Bluemix_notm}}의 주문을 선택하지 않는 한, {{site.data.keyword.Bluemix_notm}}의 사용은 IBM 클라우드 서비스 계약(CSA)의 이용 약관의 규정을 따릅니다. 본 계약은 모든 연관된 서비스 설명 및
-이용 약관 문서의 참조에 의해 통합됩니다. 귀하의 주문 및
-{{site.data.keyword.Bluemix_notm}}의 지속적 사용은 본 문서에서
-기술되거나 참조된 조건, 이용 약관, 프로세스의 수락을 의미합니다.
-
-### IBM 서비스 설명
-{{site.data.keyword.Bluemix_notm}}의 사용을 규정하는 서비스 설명과 이용 약관 문서는 다음과 같습니다. 
- * [CSA가 적용되는 사용자를 위한 SaaS(Software as a Service) 이용 약관 ![외부 링크 아이콘](../icons/launch-glyph.svg)](http://ibm.biz/BluemixSD){: new_window}
- * [IPAA가 적용되는 사용자를 위한 SaaS(Software as a Service) 이용 약관 ![외부 링크 아이콘](../icons/launch-glyph.svg)](http://ibm.biz/BluemixTOU){: new_window}
+특정 {{site.data.keyword.Bluemix_notm}} 서비스에 대한 추가 용어를 포함하여 IBM {{site.data.keyword.Bluemix_notm}} 서비스 설명의 최신 버전은 [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![외부 링크 아이콘](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window}에서 찾을 수 있습니다. 
 
 ### IBM WebSphere Application Server Liberty Profile 이미지에 대한 라이센스
 Dockerfile 및 관련 스크립트는 Apache License 2.0에 의거해서 라이센스가 부여됩니다. IBM JRE 및 IBM WebSphere® Application Server for Developers는 무보증 프로그램에 관한 IBM 국제 라이센스 계약에 의거해서 라이센스가 부여됩니다. 기존에 설명한 바와 같이 LICENSE=view 환경 변수를 사용하여 이미지를 통해서 또는 IBM JRE 및 IBM WebSphere Application Server for Developers에 대해
@@ -147,22 +139,4 @@ Dockerfile 및 관련 스크립트는 Apache License 2.0에 의거해서 라이�
 ## Bluemix 개인보호 보호정책
 {: #privacy_policy}
 
-SaaS(Software as a Service) 솔루션을 포함한 IBM 소프트웨어 제품(이하 "소프트웨어 오퍼링")은 제품 사용 정보를 수집하거나 최종 사용자의 경험을 개선하는 데 도움을 주거나
-최종 사용자와의 상호 작용을 조정하거나 그 외의 용도로 쿠키나 기타 다른 기술을 사용할 수 있습니다.
-많은 경우에 있어서, 소프트웨어 오퍼링은 개인 식별 정보를 수집하지 않습니다. IBM의 일부 소프트웨어 오퍼링은 귀하가 개인 식별 정보를 수집하도록 도울 수 있습니다. 본 소프트웨어 오퍼링이 쿠키를 사용하여 개인 식별 정보를 수집할 경우, 본 오퍼링의 쿠키 사용에 대한 특정 정보가 다음에 규정되어 있습니다.
-
-
-본 소프트웨어 오퍼링은 배치된 구성에 따라
-세션 관리, 인증 또는 기타 사용량 추적이나 기능의 용도로
-각 사용자의 사용자 이름 또는 개인 식별 정보를 수집하는 세션 쿠키를 사용할 수 있습니다.
-이러한 쿠키를 사용하지 못하도록 할 수는 없습니다.
-
-
-본 소프트웨어 오퍼링에 배치된 구성이 쿠키 및 기타 기술을 통해
-최종 사용자의 개인 식별 정보 수집 기능을 고객인 귀하에게 제공하는 경우, 귀하는 통지와 동의를 위한 요건을 포함하여
-이러한 정보 수집과 관련된 법률 자문을 스스로 구해야 합니다.
-
-이러한 목적의 쿠키를 포함한 다양한 기술의 사용에 대한 자세한 정보는 다음 사이트를 참조하십시오.
- * [IBM 온라인 개인보호 보호정책 주요 내용 ![외부 링크 아이콘](../icons/launch-glyph.svg)](http://www.ibm.com/privacy){: new_window}
- * [IBM 온라인 개인정보 보호정책, "쿠키, 웹 비콘 및 기타 기술" 부분 ![외부 링크 아이콘](../icons/launch-glyph.svg)](http://www.ibm.com/privacy/details){: new_window}
- * [IBM 소프트웨어 제품 및 SaaS(Software-as-a-Service) 개인정보 보호정책 ![외부 링크 아이콘](../icons/launch-glyph.svg)](http://www.ibm.com/software/info/product-privacy){: new_window}
+IBM 온라인 개인정보 보호정책문은 [https://www.ibm.com/privacy/details/us/en ![외부 링크 아이콘](../icons/launch-glyph.svg)](https://www.ibm.com/privacy/details/us/en){: new_window}에서 찾을 수 있습니다. 이 개인정보 보호정책문은 IBM이 수집하는 개인 정보, 이의 활용 방안 및 해당 개인 정보와 관련된 클라이언트의 선택사항에 대한 정보를 제공합니다. 

@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-03"
+lastupdated: "2017-09-21"
 
 
 ---
@@ -85,7 +85,7 @@ IBM 基於雙方之 IBM 客戶合約、IBM 國際程式授權合約或任何同�
 ## 商標
 {: #trademarks}
 
-IBM、IBM 標誌及 ibm.com 是 International Business Machines Corp. 已在全球許多國家/地區或司法管轄區註冊的商標或註冊商標。其他產品與服務名稱可能是 IBM 或其他公司的商標。最新的 IBM 商標清單可於「著作權與商標資訊」(Copyright and trademark information) 網頁上取得：[www.ibm.com/legal/copytrade.shtml ![外部鏈結圖示](../icons/launch-glyph.svg)](www.ibm.com/legal/copytrade.shtml){: new_window}。
+IBM、IBM 標誌及 ibm.com 是 International Business Machines Corp. 已在全球許多國家/地區或司法管轄區註冊的商標或註冊商標。其他產品與服務名稱可能是 IBM 或其他公司的商標。最新的 IBM 商標清單可於 [Copyright and trademark information ![外部鏈結圖示](../icons/launch-glyph.svg)](https://www.ibm.com/legal/us/en/copytrade.shtml){: new_window} 網頁上取得。
 
 Adobe、Adobe 標誌、PostScript 及 PostScript 標誌是 Adobe Systems Incorporated 在美國及（或）其他國家或地區的註冊商標或商標。
 
@@ -103,15 +103,10 @@ Java™ 及所有 Java 型商標和標誌是 Oracle 及（或）其子公司的�
 
 其他公司、產品及服務名稱可能是其他公司的商標或服務標誌。
 
-## 雲端服務條款
+## IBM Bluemix 服務說明 
 {: #terms}
 
-除非您已選擇遵守現有 International Passport Advantage Agreement (IPAA) 來訂購 {{site.data.keyword.Bluemix_notm}}，否則對 {{site.data.keyword.Bluemix_notm}} 的使用受 IBM Cloud Services Agreement (CSA) 條款所規範。本合約參照所有關聯的「服務說明」及「使用條款」文件。您下單及持續使用 {{site.data.keyword.Bluemix_notm}}，即表示接受本文件中所述或參照的處理程序、條款及條件。
-
-### IBM 服務說明
-控管 {{site.data.keyword.Bluemix_notm}} 使用的「服務說明」及「使用條款」文件如下。
- * [受控於 CSA 之使用者的軟體即服務 (SaaS) 條款 ![外部鏈結圖示](../icons/launch-glyph.svg)](http://ibm.biz/BluemixSD){: new_window}
- * [受控於 IPAA 之使用者的軟體即服務 (SaaS) 條款 ![外部鏈結圖示](../icons/launch-glyph.svg)](http://ibm.biz/BluemixTOU){: new_window}
+最新版本的 IBM {{site.data.keyword.Bluemix_notm}} 服務說明，包括特定 {{site.data.keyword.Bluemix_notm}} 服務的任何其他條款，位於 [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![外部鏈結圖示](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window}。
 
 ### IBM WebSphere Application Server Liberty Profile 映像檔授權
 Dockerfile 及關聯的 Script 是根據 Apache License 2.0 授權。IBM JRE 及 IBM WebSphere® Application Server for Developers 是根據「IBM 不保證程式國際授權合約」授權。您可以如前面所述使用 LICENSE=view 環境變數來檢視這些授權，或是在線上找到 IBM JRE 及 IBM WebSphere Application Server for Developers 的授權。本授權不允許進一步散布。
@@ -119,13 +114,4 @@ Dockerfile 及關聯的 Script 是根據 Apache License 2.0 授權。IBM JRE 及
 ## Bluemix 隱私權原則
 {: #privacy_policy}
 
-IBM 軟體產品，包括軟體即服務 (SaaS) 解決方案（「軟體供應項目」），可能使用 Cookie 或其他技術來收集產品使用資訊，以協助改善一般使用者體驗、調整與一般使用者的互動，或作為其他用途。在許多情況下，「軟體供應項目」不會收集個人識別資訊。部分「軟體供應項目」可協助您收集個人識別資訊。如果本「軟體供應項目」使用 Cookie 來收集個人識別資訊，與此供應項目使用 Cookie 相關的特定資訊會於下方設定。
-
-根據所部署的配置，「軟體供應項目」可能會使用階段作業 Cookie 來收集每一位使用者的使用者名稱或其他個人識別資訊，以進行階段作業管理、鑑別或其他使用情形追蹤或功能。這些 Cookie 無法予以停用。
-
-如果針對此「軟體產品與服務」部署的配置讓您可以作為客戶來透過 Cookie 及其他技術收集來自一般使用者的個人識別資訊，則應該探查有關您對這類資料收集適用的任何法律的專屬法律建議（包括注意事項及同意事項的任何需求）。
-
-如需基於這些目的使用各種技術（例如 Cookie）的相關資訊，請參閱下列網站：
- * [IBM 線上隱私權聲明重點 ![外部鏈結圖示](../icons/launch-glyph.svg)](http://www.ibm.com/privacy){: new_window}
- * [IBM 線上隱私權聲明的「Cookie、 Web Beacon 與其他技術」小節 ![外部鏈結圖示](../icons/launch-glyph.svg)](http://www.ibm.com/privacy/details){: new_window}
- * [IBM 軟體產品及軟體即服務隱私權聲明 ![外部鏈結圖示](../icons/launch-glyph.svg)](http://www.ibm.com/software/info/product-privacy){: new_window}
+「IBM 線上隱私權聲明」位於 [https://www.ibm.com/privacy/details/us/en ![外部鏈結圖示](../icons/launch-glyph.svg)](https://www.ibm.com/privacy/details/us/en){: new_window}。此「聲明」提供關於 IBM 蒐集之個人資訊內容、用途及「客戶」對於此等個人資訊有何選擇的相關資訊。

@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-09-21"
+lastupdated: "2017-09-25"
 
 
 ---
@@ -125,7 +125,7 @@ Unidos e/ou em outros países.
 
 O robô Android é reproduzido ou modificado por meio do trabalho criado e compartilhado pelo Google e usado de acordo com os termos descritos na [Licença de atribuição do Creative Commons 3.0 ![Ícone de link externo](../icons/launch-glyph.svg)](https://creativecommons.org/licenses/by/3.0/){: new_window}.
 
-Linux é uma marca registrada de Linus Torvalds nos Estados Unidos e/ou em outros países.
+Linux é uma marca registrada de Linus Torvalds nos Estados Unidos e/o em outros países.
 
 Microsoft, Windows e Windows NT são marcas registradas da Microsoft Corporation nos Estados Unidos
 e/ou em outros países.
@@ -139,10 +139,10 @@ Java™ e todas as marcas comerciais e logotipos baseados em Java são marcas co
 
 Outros nomes de empresas, produtos e serviços podem ser marcas registradas ou marcas de serviços de terceiros.
 
-## Descrições de serviços IBM Bluemix 
+## Termos do IBM Bluemix
 {: #terms}
 
-As versões mais recentes das Descrições de serviços IBM {{site.data.keyword.Bluemix_notm}}, incluindo quaisquer termos adicionais para serviços específicos {{site.data.keyword.Bluemix_notm}}, podem ser localizadas em [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![External link icon](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window}.
+O uso de serviços do IBM {{site.data.keyword.Bluemix_notm}} é fornecido sob os termos do Contrato de Prestação de Serviços do IBM Cloud disponível a você para seu país em [www.ibm.com/terms ![Ícone de link externo](../icons/launch-glyph.svg)](www.ibm.com/terms){: new_window} e as versões mais recentes das Descrições de serviço do IBM {{site.data.keyword.Bluemix_notm}}, incluindo quaisquer termos adicionais para serviços específicos do {{site.data.keyword.Bluemix_notm}}, podem ser localizadas em [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![Ícone de link externo](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window}.
 
 ### Licença para a imagem do perfil Liberty do IBM WebSphere Application Server
 O Dockerfile e os scripts associados são licenciados sob o Apache License 2.0. O IBM JRE e o IBM WebSphere® Application Server for Developers são licenciados sob o Contrato de Licença Internacional da IBM para Programas sem Garantia. É possível visualizar essas licenças por meio da imagem usando a variável de ambiente LICENSE=view conforme descrito anteriormente ou é possível localizá-las on-line para o IBM JRE e o IBM WebSphere Application Server for Developers. Esta licença não permite distribuição adicional.

@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-09-21"
+lastupdated: "2017-09-25"
 
 
 ---
@@ -101,10 +101,10 @@ Java™ und alle auf Java basierenden Marken und Logos sind Marken oder eingetra
 
 Weitere Unternehmens-, Produkt- oder Servicenamen können Marken oder Servicemarken anderer Hersteller sein.
 
-## IBM Bluemix-Servicebeschreibungen 
+## IBM Bluemix - Bedingungen
 {: #terms}
 
-Die neuesten Versionen der IBM {{site.data.keyword.Bluemix_notm}}-Servicebeschreibungen, einschließlich zusätzlicher Bedingungen für bestimmte {{site.data.keyword.Bluemix_notm}}-Services, finden Sie unter [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![Symbol für externen Link](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window}.
+Die Verwendung der IBM {{site.data.keyword.Bluemix_notm}}-Services unterliegt den Bedingungen der Vereinbarung für IBM Cloud-Services (IBM Cloud Services Agreement, CSA). Die für Ihr Land gültige Ausgabe ist unter [www.ibm.com/terms ![Symbol für externen Link](../icons/launch-glyph.svg)](www.ibm.com/terms){: new_window} erhältlich. Die neuesten Versionen der IBM {{site.data.keyword.Bluemix_notm}}-Servicebeschreibungen, einschließlich zusätzlicher Bedingungen für bestimmte {{site.data.keyword.Bluemix_notm}}-Services, finden Sie unter [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![Symbol für externen Link](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window}.
 
 ### Lizenz für das IBM WebSphere Application Server Liberty Profile-Image
 Die Dockerfile und zugehörige Scripts werden unter der Lizenz für Apache 2.0 lizenziert. Die Lizenzierung von IBM JRE und IBM WebSphere® Application Server for Developers erfolgt unter dem IBM International License Agreement für Programme ohne Gewährleistung. Sie können diese Lizenzen aus dem Image anzeigen, indem Sie die Umgebungsvariable LICENSE=view wie zuvor beschrieben verwenden, oder Sie finden sie online für IBM JRE und IBM WebSphere Application Server for Developers. Diese Lizenz berechtigt nicht zur weiteren Verteilung.

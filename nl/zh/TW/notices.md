@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-09-21"
+lastupdated: "2017-09-25"
 
 
 ---
@@ -103,10 +103,10 @@ Java™ 及所有 Java 型商標和標誌是 Oracle 及（或）其子公司的�
 
 其他公司、產品及服務名稱可能是其他公司的商標或服務標誌。
 
-## IBM Bluemix 服務說明 
+## IBM Bluemix 條款
 {: #terms}
 
-最新版本的 IBM {{site.data.keyword.Bluemix_notm}} 服務說明，包括特定 {{site.data.keyword.Bluemix_notm}} 服務的任何其他條款，位於 [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![外部鏈結圖示](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window}。
+IBM {{site.data.keyword.Bluemix_notm}} 服務的使用是根據在您國家/地區可用的 IBM Cloud Services Agreement 條款（網址為 [www.ibm.com/terms ![外部鏈結圖示](../icons/launch-glyph.svg)](www.ibm.com/terms){: new_window}）所提供，而且最新版本的「IBM {{site.data.keyword.Bluemix_notm}} 服務說明」（包含特定 {{site.data.keyword.Bluemix_notm}} 服務的任何其他條款）位於 [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![外部鏈結圖示](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window} 上。
 
 ### IBM WebSphere Application Server Liberty Profile 映像檔授權
 Dockerfile 及關聯的 Script 是根據 Apache License 2.0 授權。IBM JRE 及 IBM WebSphere® Application Server for Developers 是根據「IBM 不保證程式國際授權合約」授權。您可以如前面所述使用 LICENSE=view 環境變數來檢視這些授權，或是在線上找到 IBM JRE 及 IBM WebSphere Application Server for Developers 的授權。本授權不允許進一步散布。

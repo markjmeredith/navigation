@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-09-21"
+lastupdated: "2017-09-25"
 
 
 ---
@@ -101,10 +101,10 @@ Javay todas las marcas registradas y los logotipos basados en Java son marcas re
 
 Otros nombres de empresas, productos y servicios pueden ser marcas registradas o de servicio de terceros.
 
-## Descripciones de servicio de IBM Bluemix 
+## Términos de IBM Bluemix
 {: #terms}
 
-Las versiones más recientes de las descripciones de servicio de {{site.data.keyword.Bluemix_notm}}, incluidos términos y condiciones adicionales para servicios específicos de {{site.data.keyword.Bluemix_notm}}, pueden encontrarse en [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![Icono de enlace externo](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window}.
+El uso de los servicios de IBM {{site.data.keyword.Bluemix_notm}} se proporciona bajo los términos del IBM Cloud Services Agreement disponible para su país en [www.ibm.com/terms ![Icono de enlace externo](../icons/launch-glyph.svg)](www.ibm.com/terms){: new_window} y las versiones más recientes de las descripciones de servicio de IBM {{site.data.keyword.Bluemix_notm}}, incluidos términos y condiciones adicionales para servicios específicos de {{site.data.keyword.Bluemix_notm}}, pueden encontrarse en [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![Icono de enlace externo](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window}.
 
 ### Licencia de la imagen de IBM WebSphere Application Server Liberty Profile
 Dockerfile y los scripts asociados se licencian bajo la Apache License 2.0. IBM JRE e IBM WebSphere Application Server for Developers se licencian bajo el IBM International License Agreement para programas sin garantía. Puede ver estas licencias en la imagen utilizando la variable de entorno LICENSE=view tal como se ha descrito anteriormente o puede verlas en línea para IBM JRE e IBM WebSphere Application Server for Developers. Esta licencia no permite una distribución adicional.

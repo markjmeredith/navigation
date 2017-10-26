@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-09-21"
+lastupdated: "2017-09-25"
 
 
 ---
@@ -168,10 +168,10 @@ Java™, ainsi que tous les logos et toutes les marques incluant Java, sont des 
 
 Les autres noms de sociétés, de produits et de services peuvent appartenir à des tiers.
 
-## Bluemix service descriptions 
+## Dispositions IBM Bluemix
 {: #terms}
 
-Les dernières versions de {{site.data.keyword.Bluemix_notm}} service descriptions, incluant tous les termes supplémentaires des services {{site.data.keyword.Bluemix_notm}} spécifiques, se trouvent sur [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![External link icon](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window}.
+L'utilisation d'IBM {{site.data.keyword.Bluemix_notm}} est fournie dans le cadre de l'accord IBM Cloud Services Agreement disponible pour votre pays sur le site [www.ibm.com/terms ![Icône de lien externe](../icons/launch-glyph.svg)](www.ibm.com/terms){: new_window}, et les dernières versions d'IBM {{site.data.keyword.Bluemix_notm}} Service Descriptions, incluant tous les termes supplémentaires pour les services {{site.data.keyword.Bluemix_notm}} spécifiques, figurent sur le site [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![Icône de lien externe](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window}.
 
 ### Licence pour l'image IBM WebSphere Application Server Liberty Profile
 Dockerfile et les scripts associés sont concédés sous licence selon les conditions Apache License 2.0. IBM JRE ( environnement d'exécution Java ) et IBM WebSphere Application Server for Developers sont concédés sous licence selon les Conditions Internationales d'Utilisation des Logiciels non-garantis IBM. Vous pouvez consulter ces licences depuis l'image en utilisant la variable d'environnement LICENSE=view comme décrit précédemment, ou les rechercher en ligne pour IBM JRE et IBM WebSphere Application Server for Developers. Cette licence n'autorise aucune distribution.

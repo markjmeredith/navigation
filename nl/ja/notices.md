@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-05-03"
+lastupdated: "2017-09-25"
 
 
 ---
@@ -105,7 +105,7 @@ IBM は、お客様の当該サンプル・プログラムの使用から生ず�
 {: #trademarks}
 
 IBM、IBM ロゴおよび ibm.com は、世界の多くの国で登録された International Business Machines Corporation の商標です。 他の製品名およびサービス名等は、それぞれ IBM または各社の商標である場合があります。
-現時点での IBM の商標リストについては、 [www.ibm.com/legal/copytrade.shtml ![外部リンク・アイコン](../icons/launch-glyph.svg)](www.ibm.com/legal/copytrade.shtml){: new_window}をご覧ください。 
+現時点での IBM の商標のリストについては、[Copyright and trademark information ![外部リンク・アイコン](../icons/launch-glyph.svg)](https://www.ibm.com/legal/us/en/copytrade.shtml){: new_window} をご覧ください。
 
 Adobe、Adobe ロゴ、PostScript、PostScript ロゴは、Adobe Systems Incorporated の米国およびその他の国における登録商標または商標です。
 
@@ -124,17 +124,10 @@ Java™ およびすべての Java 関連の商標およびロゴは Oracle や�
 
 他の会社名、製品名、およびサービス名は、それぞれ各社の商標または登録商標です。
 
-## クラウド・サービスのご利用条件
+## IBM Bluemix 利用条件
 {: #terms}
 
-既に締結済みのパスポート・アドバンテージのご契約条件の下で {{site.data.keyword.Bluemix_notm}} を注文する場合を除き、{{site.data.keyword.Bluemix_notm}} の使用には、IBM クラウド・サービス契約書の条件が適用されます。この契約書には、下記の関連するサービス記述書およびご使用条件のすべての記載文書が含まれます。
-{{site.data.keyword.Bluemix_notm}} を注文または継続的に使用することにより、お客様は、本書で記載または参照されているプロセスおよび契約条件に同意したものとみなされます。
-
-### IBM サービス記述書
-{{site.data.keyword.Bluemix_notm}} の使用に適用されるサービス記述書およびご使用条件の文書は、以下のとおりです。
- * [Software as a Service terms (CSA を締結したユーザーの場合) ![外部リンク・アイコン](../icons/launch-glyph.svg)](http://ibm.biz/BluemixSD){: new_window}
- * [Software as a Service terms (IPAA を締結したユーザーの場合) ![外部リンク・アイコン](../icons/launch-glyph.svg)](http://ibm.biz/BluemixTOU){: new_window}
-
+{{site.data.keyword.Bluemix_notm}} サービスの使用は、IBM クラウド・サービス契約書のご利用条件にしたがって提供されます。この契約書の各国版は、[www.ibm.com/terms ![外部リンク・アイコン](../icons/launch-glyph.svg)](www.ibm.com/terms){: new_window} から入手できます。特定の {{site.data.keyword.Bluemix_notm}} サービスを対象とするすべての追加条件を含む IBM {{site.data.keyword.Bluemix_notm}} サービス記述書の最新版は、[http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![外部リンク・アイコン](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window} にあります。
 
 ### IBM WebSphere Application Server Liberty Profile イメージのライセンス
 Dockerfile と関連スクリプトは、Apache License 2.0 に基づいて使用許諾されます。IBM JRE および IBM WebSphere® Application Server for Developers は、「IBM プログラムのご使用条件 (保証適用外プログラム用)」に基づいて使用許諾されます。これらのライセンスは、前述のとおり LICENSE=view 環境変数を使用してイメージから表示するか、IBM JRE と IBM WebSphere Application Server for Developers でオンライン検索して入手できます。このライセンスを再配布することは禁止されています。
@@ -142,17 +135,4 @@ Dockerfile と関連スクリプトは、Apache License 2.0 に基づいて使�
 ## Bluemix プライバシー・ポリシー
 {: #privacy_policy}
 
-サービス・ソリューションとしてのソフトウェアも含めた IBM ソフトウェア製品 (「ソフトウェア・オファリング」) では、製品の使用に関する情報の収集、エンド・ユーザーの使用感の向上、エンド・ユーザーとの対話またはその他の目的のために、Cookie はじめさまざまなテクノロジーを使用することがあります。
-多くの場合、ソフトウェア・オファリングにより個人情報が収集されることはありません。
-IBM の「ソフトウェア・オファリング」の一部には、個人情報を収集できる機能を持つものがあります。
-ご使用の「ソフトウェア・オファリング」が、これらの Cookie およびそれに類するテクノロジーを通じてお客様による個人情報の収集を可能にする場合、以下の具体的事項をご確認ください。
-
-このソフトウェア・オファリングは、展開される構成に応じて、セッション管理、認証、または利用の追跡または機能上の目的のために、 それぞれのお客様のユーザー名またはその他の個人情報を、セッションごとの Cookie を使用して収集する場合があります。
-これらの Cookie を無効にすることはできません。
-
-この「ソフトウェア・オファリング」が Cookie およびさまざまなテクノロジーを使用してエンド・ユーザーから個人を特定できる情報を収集する機能を提供する場合、 お客様は、このような情報を収集するにあたって適用される法律、ガイドライン等を遵守する必要があります。これには、エンドユーザーへの通知や同意の要求も含まれますがそれらには限られません。
-
-このような目的での Cookie を含む様々なテクノロジーの使用の詳細については、以下のサイトを参照してください。
- * [IBM オンラインでのプライバシー・ポリシー・ステートメントのハイライト ![外部リンク・アイコン](../icons/launch-glyph.svg)](http://www.ibm.com/privacy){: new_window}
- * [IBM オンラインでのプライバシー・ステートメントの『クッキー、ウェブ・ビーコン、その他のテクノロジー』 ![外部リンク・アイコン](../icons/launch-glyph.svg)](http://www.ibm.com/privacy/details){: new_window}
- * [IBM ソフトウェア製品および Software-as-a-Service プライバシー・ステートメント (IBM Software Products and Software-as-a-Service Privacy Statement)![外部リンク・アイコン](../icons/launch-glyph.svg)](http://www.ibm.com/software/info/product-privacy){: new_window}
+IBM オンライン・プライバシー・ステートメントは、[https://www.ibm.com/privacy/details/us/en ![外部リンク・アイコン](../icons/launch-glyph.svg)](https://www.ibm.com/privacy/details/us/en){: new_window} にあります。このステートメントには、IBM ではどのような個人情報を収集するか、それをどのように使用するか、およびこのような個人情報に関してお客様にはどのような選択肢があるかについての情報が記載されています。

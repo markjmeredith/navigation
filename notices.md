@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-09-25"
+lastupdated: "2017-11-09"
 
 
 ---
@@ -101,7 +101,7 @@ Java™ and all Java-based trademarks and logos are trademarks or registered tra
 
 Other company, product, and service names may be trademarks or service marks of others.
 
-## IBM Bluemix Terms
+## IBM {{site.data.keyword.Bluemix_notm}} Terms
 {: #terms}
 
 Use of IBM {{site.data.keyword.Bluemix_notm}} services is provided under the terms of the IBM Cloud Services Agreement available to you for your country at [www.ibm.com/terms ![External link icon](../icons/launch-glyph.svg)](http://www.ibm.com/terms){: new_window} and the latest versions of IBM {{site.data.keyword.Bluemix_notm}} Service Descriptions, including any additional terms for specific {{site.data.keyword.Bluemix_notm}} services, can be found at [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![External link icon](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window}.
@@ -109,7 +109,7 @@ Use of IBM {{site.data.keyword.Bluemix_notm}} services is provided under the ter
 ### License for the IBM WebSphere Application Server Liberty Profile image
 The Dockerfile and associated scripts are licensed under the Apache License 2.0. The IBM JRE and IBM WebSphere® Application Server for Developers are licensed under the IBM International License Agreement for Non-Warranted Programs. You can view these licenses from the image by using the LICENSE=view environment variable as described previously, or you can find them online for IBM JRE and IBM WebSphere Application Server for Developers. This license does not permit further distribution.
 
-## Bluemix privacy policy
+## {{site.data.keyword.Bluemix_notm}} privacy policy
 {: #privacy_policy}
 
 IBM Online Privacy Statement can be found at [https://www.ibm.com/privacy/details/us/en ![External link icon](../icons/launch-glyph.svg)](https://www.ibm.com/privacy/details/us/en){: new_window}. This Statement provides information about what personal information IBM collects, how it uses, and what choices Client has with regard to such personal information.

@@ -101,7 +101,7 @@ Java™ and all Java-based trademarks and logos are trademarks or registered tra
 
 Other company, product, and service names may be trademarks or service marks of others.
 
-## IBM {{site.data.keyword.Bluemix_notm}} Terms
+## {{site.data.keyword.Bluemix_notm}} Terms
 {: #terms}
 
 Use of IBM {{site.data.keyword.Bluemix_notm}} services is provided under the terms of the IBM Cloud Services Agreement available to you for your country at [www.ibm.com/terms ![External link icon](../icons/launch-glyph.svg)](http://www.ibm.com/terms){: new_window} and the latest versions of IBM {{site.data.keyword.Bluemix_notm}} Service Descriptions, including any additional terms for specific {{site.data.keyword.Bluemix_notm}} services, can be found at [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![External link icon](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window}.

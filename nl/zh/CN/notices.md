@@ -5,7 +5,7 @@
 copyright:
 
   years: 2015, 2017
-lastupdated: "2017-09-25"
+lastupdated: "2017-11-09"
 
 
 ---
@@ -102,15 +102,15 @@ Java™ 和所有基于 Java 的商标和徽标是 Oracle 和/或其分公司的
 
 其他公司、产品和服务名称可能是其他公司的商标或服务标记。
 
-## IBM Bluemix 条款
+## IBM {{site.data.keyword.Bluemix_notm}} 条款
 {: #terms}
 
-IBM {{site.data.keyword.Bluemix_notm}} 服务的使用依据针对您所在国家提供的“IBM Cloud Services 协议”的条款 ([www.ibm.com/terms ![外部链接图标](../icons/launch-glyph.svg)](www.ibm.com/terms){: new_window})，IBM {{site.data.keyword.Bluemix_notm}} 服务描述的最新版本（包括特定于 {{site.data.keyword.Bluemix_notm}} 服务的任何其他条款）可在 [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![外部链接图标](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window} 上找到。
+IBM {{site.data.keyword.Bluemix_notm}} 服务的使用依据针对您所在国家提供的“IBM Cloud Services 协议”的条款 ([www.ibm.com/terms ![外部链接图标](../icons/launch-glyph.svg)](http://www.ibm.com/terms){: new_window})，IBM {{site.data.keyword.Bluemix_notm}} 服务描述的最新版本（包括特定于 {{site.data.keyword.Bluemix_notm}} 服务的任何其他条款）可在 [http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm ![外部链接图标](../icons/launch-glyph.svg)](http://www-03.ibm.com/software/sla/sladb.nsf/sla/bm){: new_window} 上找到。
 
 ### IBM WebSphere Application Server Liberty Profile 映像许可证
 Dockerfile 和关联的脚本依据 Apache License 2.0 许可使用。IBM JRE 和 IBM WebSphere® Application Server for Developers 依据“无保证程序的 IBM 国际许可协议”许可使用。您可以通过使用 LICENSE=view 环境变量来查看映像中的这些许可证（如前文所述），也可以在线找到 IBM JRE 和 IBM WebSphere Application Server for Developers 的许可证。此许可证不允许进一步的分发。
 
-## Bluemix 隐私策略
+## {{site.data.keyword.Bluemix_notm}} 隐私策略
 {: #privacy_policy}
 
 IBM 网上隐私声明可以在 [https://www.ibm.com/privacy/details/us/en ![外部链接图标](../icons/launch-glyph.svg)](https://www.ibm.com/privacy/details/us/en){: new_window} 处找到。此声明提供 IBM 收集的个人信息、使用方式以及客户在此类个人信息方面的选择的相关信息。
